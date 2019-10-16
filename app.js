@@ -97,4 +97,8 @@ function initialFunc() {
   if (elem3) {
     elem3.classList.add('active');
   }
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> 088176571d5e9406885c1f3ff705b756669663b3
