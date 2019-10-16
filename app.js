@@ -93,23 +93,3 @@ function initialFunc() {
     elem3.classList.add('active');
   }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// document.querySelector('#current-' + currentPlayer).textContent = dice;
-// //document.querySelector('#current-' + currentPlayer).innerHTML = '<em>' + dice + '</em>'; 
-
-// var u = document.querySelector('#score-0').textContent;
-// console.log(u)
